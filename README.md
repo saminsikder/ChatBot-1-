@@ -1,2 +1,2 @@
 # ChatBot-1-
-A kidney disease Bot
+A Covid-19 Bot for Symptoms
